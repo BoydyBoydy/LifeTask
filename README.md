@@ -46,4 +46,4 @@ Free to use for personal use and single person organisations.
 
 Subscription to be available upon request for revenue generating businesses.
 
-Summary available at [License Summary]("License Summary")
+License Summary available at [License Summary](License%20Summary.md)

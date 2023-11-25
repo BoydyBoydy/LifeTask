@@ -24,7 +24,7 @@ This can include commercially for single person revenue-generating organisations
 
 ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) - WIP (Partially Released)
 
-![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) - DONE
+![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) - DONE (Fully Released)
 ### Feature Status
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) General Task Management
 	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Tasks

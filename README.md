@@ -34,14 +34,14 @@ This can include commercially for single person revenue-generating organisations
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Current and Done Tasks Section
 		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Task Linking - Dependencies / Multi Level Task Graph (User Stories)
 			- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Basic Task Dependencies Graph
-		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Recurring Tasks
+		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Recurring Tasks
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Release Management - Group of work that needs to be completed (Sprints, Versions)
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Release Name
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Start Date
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) End Date
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Total Completed %
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Task List - Add/Link Task to Release
-	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Releases (Epics, Themes)
+	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Dependencies / Multi Level Releases (Epics, Themes)
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) WSJF Planning
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Basic WSJF Planning for Tasks
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Scheduled Tasks Views

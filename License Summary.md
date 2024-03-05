@@ -34,4 +34,4 @@ Examples for not needing a commercial license:
 
 Commercial Use Licenses must be purchased on an annual (or agreed upon period) and per user basis. Commercial users must purchase at least as many licenses as the number of people who will be using LifeTask.
 
-Copyright 2023 Carson Boyd
+Copyright 2023 - 2024 Carson Boyd

@@ -69,7 +69,7 @@ This Application will create a new folder and filename under the path:
 - with filenames such as : LifeTask-*.txt
 
 ## License / End User License Agreement
-Copyright 2023 Carson Boyd
+Copyright 2023 - 2024 Carson Boyd
 
 Free to use for personal use and single person organisations.
 

@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.6.1
+New Features:
+
+- Releases View 
+  - Can move a task from one release to another
+  - Can now have Child Releases
+  - 'Remove Child Release' option won't appear unless there are actually children available
+  - Ensured that Releases were sorted by oldest to newest
+- Task Management
+  - Ensured that Tasks were sorted by oldest to newest
+- Scheduled View
+  - Ensured that Tasks were sorted by oldest to newest
+  - When updating scheduled tasks, view is refreshed in order to show that the change has been made properly
+- Due Dates
+  - Can now remove a due date to empty
+
 ## 0.6.0
 New Features:
 
@@ -7,12 +23,12 @@ New Features:
 - Removed unneeded Navigation
 - Releases can be linked
 - Can now add new Tasks directly into Releases
-	- Brainstorming work, and/or keeping everything in the same release
+  - Brainstorming work, and/or keeping everything in the same release
 - Simple Dependency Graph for Releases
 - Combined Graph View
-	- Picker for which type of Graph you want (Task, Release)
+  - Picker for which type of Graph you want (Task, Release)
 - Breaking Change: Updated data to make it more generic for newer data types
-	- This means I had to manually change my data, replace words for uniqueIDs
+  - This means I had to manually change my data, replace words for uniqueIDs
 - Simple Recurring Tasks, daily only - 'every 1 days', etc.
 
 ## 0.5.0

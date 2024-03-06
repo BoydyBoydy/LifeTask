@@ -25,7 +25,7 @@ This can include commercially for single person revenue-generating organisations
 ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) - WIP (Partially Released)
 
 ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) - DONE (Fully Released)
-### Feature Status
+### Feature Status - ~30% Complete (15/48 Listed Features) // ~12% Complete (1/8 Listed Components)
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) General Task Management
 	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Tasks
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Name
@@ -36,6 +36,9 @@ This can include commercially for single person revenue-generating organisations
 		    - ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Dependencies / Multi Level Task Graph (User Stories)
 			- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Basic Task Dependencies Graph
 		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Recurring Tasks
+			- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Daily Recurring
+			- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Weekly Recurring
+			- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Monthly Recurring
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Release Management - Group of work that needs to be completed (Sprints, Versions)
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Release Name
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Start Date
@@ -59,6 +62,12 @@ This can include commercially for single person revenue-generating organisations
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Objectives
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Key Results
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dashboard
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Goal Linking
+		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Goals (Life Goals)
+		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Basic Goals Dependencies Graph
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Objective Linking
+		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Objectives (Life Goals)
+		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Basic Objectives Dependencies Graph
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Metrics
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Manual Baselines
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Count Tasks Completed (Tasks counted as User Stories, etc.)

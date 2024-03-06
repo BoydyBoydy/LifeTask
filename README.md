@@ -32,7 +32,8 @@ This can include commercially for single person revenue-generating organisations
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Due Date
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Status
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Current and Done Tasks Section
-		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Task Linking - Dependencies / Multi Level Task Graph (User Stories)
+		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Task Linking
+		    - ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Dependencies / Multi Level Task Graph (User Stories)
 			- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Basic Task Dependencies Graph
 		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Recurring Tasks
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Release Management - Group of work that needs to be completed (Sprints, Versions)
@@ -41,18 +42,29 @@ This can include commercially for single person revenue-generating organisations
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) End Date
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Total Completed %
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Task List - Add/Link Task to Release
-	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Dependencies / Multi Level Releases (Epics, Themes)
+	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Release Linking
+		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Dependencies / Multi Level Releases (Epics, Themes)
+		- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Basic Release Dependencies Graph
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) WSJF Planning
 	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Basic WSJF Planning for Tasks
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Top 10% WSJF to be made visible
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Top 10% CoD to be made visible
 - ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Scheduled Tasks Views
-	- ![WIP](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Daily
+	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueNeutral.svg) Daily
 		- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Overdue, Today, Next
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Weekly
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Monthly
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) OKRs / Goal Tracking
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Goals
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Objectives
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Key Results
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dashboard
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Metrics
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Manual Baselines
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Count Tasks Completed (Tasks counted as User Stories, etc.)
+	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Simple Estimate Completion Date of a Release
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Story Maps
-- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Feedback - A way to provide feedback to developer (Google Form)
+- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Feedback - A way to provide feedback to developer (Google Form) OR through GitHub Repository
 
 ## How to use
 

@@ -66,7 +66,7 @@ This can include commercially for single person revenue-generating organisations
 		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Goals (Life Goals)
 		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Basic Goals Dependencies Graph
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Objective Linking
-		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Objectives (Life Goals)
+		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Objectives
 		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Basic Objectives Dependencies Graph
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Metrics
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Manual Baselines

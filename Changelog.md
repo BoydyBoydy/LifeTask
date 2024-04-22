@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.7.0
+New Features:
+- Goals View
+  - Goal Summary / Objective
+  - Key Results
+  - Child Releases
+  - Child Tasks
+- Releases View:
+  - Added Tasks Counts (Tasks Total (Blue) and Tasks Left (Yellow))
+  - Release Percentages (Total Current Release / Total Child Release)
+
 ## 0.6.1
 New Features:
 

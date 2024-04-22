@@ -58,9 +58,8 @@ This can include commercially for single person revenue-generating organisations
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Weekly
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Monthly
 - ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) OKRs / Goal Tracking
-	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Goals
-	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Objectives
-	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Key Results
+	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Goals / Objectives
+	- ![DONE](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueClosed.svg) Key Results
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dashboard
 	- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Goal Linking
 		- ![TODO](https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/IssueDrafted.svg) Dependencies / Multi Level Goals (Life Goals)
